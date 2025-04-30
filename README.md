@@ -1,2 +1,7 @@
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,java,discord,php,laravel,azure,cs,dotnet,jquery,lua,mysql,postman,py,vue,tailwind,visualstudio,vite,vscode,nodejs&theme=dark)](https://skillicons.dev)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=dubstepmad&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills&includeNames=true?languages=js,ts,java,php,python,html,css,csharp,xml,json,yamlmysql,lua,sass&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,bootstrap,tailwind,windi,angular,dotnetcore,laravel,dotnet&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
